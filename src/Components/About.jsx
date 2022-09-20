@@ -404,7 +404,7 @@ export default function About() {
                         <TableRow>
                           <TableCell>Agent</TableCell>
                           <TableCell>From Number</TableCell>
-                          <TableCell>To Number</TableCell>
+                          <TableCell>To Numberr</TableCell>
                           <TableCell>Time</TableCell>
                           <TableCell>Duration(sec)</TableCell>
                           <TableCell>Recording</TableCell>
